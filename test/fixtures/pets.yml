@@ -1,0 +1,15 @@
+alanis:
+  name: Alanis
+  age: 3
+  owner: Denise
+  species: Cat
+kyra:
+  name: Kyra
+  age: 2
+  owner: Barbara
+  species: Dog
+zeus:
+  name: Zeus
+  age: 1
+  owner: Silvia
+  species: Cat
